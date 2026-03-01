@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0Z3R4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/glitch.gif" width="100%">
 </p>
 
 <h1 align="center">
@@ -10,8 +10,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0cjB4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="48%">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="48%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B/giphy.gif" width="48%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0cjB4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B/giphy.gif" width="48%">
 </p>
 
 <div align="center">
@@ -44,7 +44,7 @@
   <b>S T A C K _ O V E R F L O W</b><br>
   <code>01000011 01010000 01010101</code><br>
   <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0cjB4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B/giphy.gif" width="100%">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B/giphy.gif" width="100%">
 </p>
 
 <p align="center">
