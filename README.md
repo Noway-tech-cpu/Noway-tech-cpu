@@ -1,16 +1,19 @@
-<!-- [001] START_SYSTEM_HANDSHAKE -->
+<!-- [LINE_001] SYSTEM_HANDSHAKE_START -->
+<!-- [LINE_002] AUTHOR: NOWAY-TECH-CPU -->
+<!-- [LINE_003] STATUS: CRITICAL_OVERLOAD -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=000&section=header&text=CRITICAL_FAILURE&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=glitch&color=000&section=header&text=S%20Y%20S%20T%20E%20M%20%20B%20R%20E%20A%20C%20H&fontSize=45&animation=fadeIn" width="100%" />
 </p>
 
-<!-- [006] TERMINAL_INITIALIZATION -->
+<!-- [LINE_010] TYPING_SEQUENCE -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&pause=200&color=FFFFFF&center=true&vCenter=true&width=600&lines=LOAD+V0ID_OS...;INJECTING_KERNEL_MODULES...;BYPASSING_RESTRICTIONS...;[SUCCESS]+STABLIZING_GLITCH;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=LOADING_KERNEL_MODULES...;INJECTING_CORE_DUMP...;ENGINEERING_STUDENT_DETECTION...;S_Y_S_T_E_M_S_T_A_T_U_S_O_K;" alt="Typing SVG" />
 </p>
 
-<!-- [011] ASCII_CORE_DUMP -->
+<!-- [LINE_017] ASCII_CORE_ARCHITECTURE -->
 <p align="center">
-<pre>
+<pre align="center">
       ::::::::  :::::::::: :::::::::: :::::::::  :::::::::: ::::::::::: 
     :+:    :+: :+:        :+:        :+:    :+: :+:            :+:      
    +:+        +:+        +:+        +:+    +:+ +:+            +:+       
@@ -18,16 +21,25 @@
  +#+        +#+        +#+        +#+    +#+ +#+            +#+         
 #+#    #+# #+#    #+# #+#    #+# #+#    #+# #+#    #+#     #+#          
  ########  ########## ########## #########  ##########     ###          
+ ---------------------------------------------------------------------
+ [ PROCESSOR: NOWAY-TECH-CPU ] [ STATUS: OVERCLOCKED ] [ MODE: VOID ]
+ ---------------------------------------------------------------------
 </pre>
 </p>
 
-<!-- [022] SYSTEM_SPECS_JSON -->
-### 📂 S̷Y̷S̷T̷E̷M̷_̷P̷R̷O̷P̷E̷R̷T̷I̷E̷S̷
+<!-- [LINE_033] SYSTEM_IDENTIFICATION_BLOCK -->
+### 📂 S̷Y̷S̷T̷E̷M̷_̷D̷I̷A̷G̷N̷O̷S̷T̷I̷C̷S̷
 ```json
 {
-  "entity": "Noway-Tech-CPU",
-  "status": "Engineering Student // Chaos Architect",
-  "environment": "Arch Linux // Vim // Darkness",
-  "focus": ["Low-Level", "Kernel", "Hardware_Exploitation"],
-  "heartbeat": "Overclocked"
+  "user": "Noway-Tech-CPU",
+  "archetype": "Engineering Student / Glitch Architect",
+  "os": "Custom_Kernel_v0.0.1_Void",
+  "location": "127.0.0.1",
+  "uptime": "Infinite_Loop",
+  "interest": [
+    "Embedded_Systems",
+    "Kernel_Optimization",
+    "Hardware_Hacking",
+    "Visual_Chaos"
+  ]
 }
