@@ -1,51 +1,69 @@
-<div align="center">
-
-<!-- Moody Aesthetic Glitch GIF -->
-<img src="https://i.pinimg.com/originals/94/d4/ec/94d4ec21ccb2f1aa02c3bb4dd4d284f6.gif" width="350" />
-
-<br><br>
-
-### ❝ ｅｒｒｏｒ _ ４０４ ❞
-
-<br>
-
-<!-- Subtle Glitch Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=300&size=15&pause=2000&color=808080&center=true&vCenter=true&width=300&lines=just+a+glitch+in+the+system.;quietly+observing.;lost+in+the+static." alt="Typing SVG" />
-
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ERROR%20404:%20USER%20NOT%20FOUND&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <i>some things are better left corrupted.</i>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI4ZzRnd3J5Nno1Z3R4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" />
+</p>
+
+<p align="center">
+  <code>[ ACCESSING_NOWAY_TECH_CPU... ]</code><br>
+  <code>SYSTEM STATUS: <font color="red">CRITICAL_FAILURE</font></code>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/glitch.gif" width="100%">
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"></td>
+    <td>
+      <h2 align="center">A E S T H E T I C _ B O Y</h2>
+      <p align="center">
+        <i>"Broken code for a broken world."</i><br><br>
+        <code>███████▒▒▒ 70% CORRUPTION</code><br>
+        <code>█████▒▒▒▒▒ 50% HUMANITY</code><br>
+        <code>██████████ 100% STATIC</code>
+      </p>
+    </td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20hardware%20is%20the%20soul,%20the%20software%20is%20the%20ghost.&author=Noway&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <b>T O O L S _ O F _ D E S T R U C T I O N</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,arch,c,cpp,py,discord,replit,bash,git,github&theme=dark" />
 </p>
 
 <br>
 
-<img src="https://i.pinimg.com/originals/3e/60/a6/3e60a66d8e87d0e0a5bd7bf8073cfd71.gif" width="150" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400">
+</p>
 
-<br><br>
+<p align="center">
+  <kbd>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</kbd>
+</p>
 
-<details>
-  <summary><b>[ v i e w _ l o g s ]</b></summary>
-  <br>
-  <p>
-    ✦ nothing to see here.<br>
-    ✦ just existing in the background.<br>
-    ✦ pure static.<br>
-  </p>
-</details>
+<p align="center">
+  <b>V I S U A L _ S T A T I C</b><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noway-tech-cpu&theme=react-dark&area=true&hide_border=true&custom_title=FRAGMENTED_TIMELINE" width="100%" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/CONNECTION-LOST-white?style=for-the-badge&logo=ghostery&logoColor=black" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-ON-black?style=for-the-badge&logo=codetunnel&logoColor=white" />
+</p>
 
-<!-- Minimalist aesthetic buttons -->
-<a href="https://github.com/Noway-tech-cpu">
-  <img src="https://img.shields.io/badge/-%20void%20-000000?style=for-the-badge&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-%20static%20-1a1a1a?style=for-the-badge&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
+</p>
 
-<br><br>
-
-<img src="https://i.pinimg.com/originals/62/13/21/62132174dcc150e7b8c738096bc5c0a9.gif" width="400" />
-
-</div>
+<p align="center">
+  <code>EOF: END_OF_FILE_000000</code>
+</p>
