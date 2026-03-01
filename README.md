@@ -1,72 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=000000&section=header&height=200&text=SYSTEM%20OFFLINE&fontSize=70&animation=fadeIn&fontAlignY=40" />
-</p>
+<div align="center">
+
+<!-- Moody Aesthetic Glitch GIF -->
+<img src="https://i.pinimg.com/originals/94/d4/ec/94d4ec21ccb2f1aa02c3bb4dd4d284f6.gif" width="350" />
+
+<br><br>
+
+### ❝ ｅｒｒｏｒ _ ４０４ ❞
+
+<br>
+
+<!-- Subtle Glitch Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=300&size=15&pause=2000&color=808080&center=true&vCenter=true&width=300&lines=just+a+glitch+in+the+system.;quietly+observing.;lost+in+the+static." alt="Typing SVG" />
+
+<br>
 
 <p align="center">
-  <kbd>N O W A Y - T E C H - C P U</kbd>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-CORRUPTED-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/ACCESS-DENIED-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/MEMORY-LOW-black?style=flat-square" />
-</p>
-
-<p align="center">
-  <br>
-  <code>[root@noway ~]#</code> <b>initialization...</b>
-  <br>
-  <i>"the world is just a series of 1s and 0s that didn't sync right."</i>
-  <br><br>
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-</p>
-
-<p align="center">
-  <b>S Y S T E M _ M O D U L E S</b>
-  <br><br>
-  <code>01. 📁 root/consciousness/void.sys</code><br>
-  <code>02. 📁 root/skills/distorted_logic.sh</code><br>
-  <code>03. 📁 root/visuals/static_noise.bin</code><br>
+  <i>some things are better left corrupted.</i>
 </p>
 
 <br>
 
-<div align="center">
-  
-| [ M O N O C H R O M E ] | [ G L I T C H ] | [ C Y B E R ] |
-| :---: | :---: | :---: |
+<img src="https://i.pinimg.com/originals/3e/60/a6/3e60a66d8e87d0e0a5bd7bf8073cfd71.gif" width="150" />
+
+<br><br>
+
+<details>
+  <summary><b>[ v i e w _ l o g s ]</b></summary>
+  <br>
+  <p>
+    ✦ nothing to see here.<br>
+    ✦ just existing in the background.<br>
+    ✦ pure static.<br>
+  </p>
+</details>
+
+<br><br>
+
+<!-- Minimalist aesthetic buttons -->
+<a href="https://github.com/Noway-tech-cpu">
+  <img src="https://img.shields.io/badge/-%20void%20-000000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-%20static%20-1a1a1a?style=for-the-badge&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://i.pinimg.com/originals/62/13/21/62132174dcc150e7b8c738096bc5c0a9.gif" width="400" />
 
 </div>
-
-<br>
-
-<p align="center">
-  <b>L O A D I N G _ D A T A . . .</b>
-  <br>
-  <img src="https://ftm-reloaded.github.io/static/load.gif" width="200">
-</p>
-
-<p align="center">
-  <b>N O W _ P L A Y I N G</b>
-  <br>
-  <code>[̲̅L̲̅][̲̅o̲̅][̲̅-̲̅][̲̅f̲̅][̲̅i̲̅] [̲̅V̲̅][̲̅i̲̅][̲̅b̲̅][̲̅e̲̅][̲̅s̲̅]</code>
-  <br>
-  01:24 ━━━●─────── 03:45
-  <br>
-  ⇆ㅤㅤㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤㅤㅤ↻
-</p>
-
-<p align="center">
-  <br>
-  <b>C O N T A C T :</b>
-  <br>
-  <code>p̵i̵n̵g̵ ̵m̵e̵ ̵i̵n̵ ̵t̵h̵e̵ ̵v̵o̵i̵d̵</code>
-  <br><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI4ZzRnd3J5Nno1Z3R4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="150">
-</p>
-
-<p align="center">
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  <br>
-  <b>[ E N D _ O F _ S E S S I O N ]</b>
-</p>
