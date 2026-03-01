@@ -1,69 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=ERROR%20404:%20USER%20NOT%20FOUND&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycWp3Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
 </p>
+
+<h1 align="center">
+  <br>
+  <code> [ N O W A Y - T E C H - C P U ] </code>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Killed+the+kernel...;Segmentation+fault+(core+dumped);Accessing+physical+memory...;0x000000000000" />
+</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI4ZzRnd3J5Nno1Z3R4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="48%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="48%">
 </p>
 
-<p align="center">
-  <code>[ ACCESSING_NOWAY_TECH_CPU... ]</code><br>
-  <code>SYSTEM STATUS: <font color="red">CRITICAL_FAILURE</font></code>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/glitch.gif" width="100%">
-</p>
+| | **[ S Y S T E M _ L O G ]** | |
+| :--- | :---: | ---: |
+| `ARCH` | `x86_64` | `[ OK ]` |
+| `USER` | `GHOST_IN_THE_MACHINE` | `[ OK ]` |
+| `LOAD` | `99.9%` | `[ CRITICAL ]` |
 
-<table align="center">
-  <tr>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"></td>
-    <td>
-      <h2 align="center">A E S T H E T I C _ B O Y</h2>
-      <p align="center">
-        <i>"Broken code for a broken world."</i><br><br>
-        <code>███████▒▒▒ 70% CORRUPTION</code><br>
-        <code>█████▒▒▒▒▒ 50% HUMANITY</code><br>
-        <code>██████████ 100% STATIC</code>
-      </p>
-    </td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20hardware%20is%20the%20soul,%20the%20software%20is%20the%20ghost.&author=Noway&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>T O O L S _ O F _ D E S T R U C T I O N</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,arch,c,cpp,py,discord,replit,bash,git,github&theme=dark" />
-</p>
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400">
+<pre align="center">
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  _____ _      _____ _______ _____ _    _ 
+ / ____| |    |_   _|__   __/ ____| |  | |
+| |  __| |      | |    | | | |    | |__| |
+| | |_ | |      | |    | | | |    |  __  |
+| |__| | |____ _| |_   | | | |____| |  | |
+ \_____|______|_____|  |_|  \_____|_|  |_|
+                                          
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</pre>
 </p>
 
 <p align="center">
-  <kbd>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</kbd>
+  <b>S T A C K _ O V E R F L O W</b><br>
+  <code>01000011 01010000 01010101</code><br>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
 </p>
 
 <p align="center">
-  <b>V I S U A L _ S T A T I C</b><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noway-tech-cpu&theme=react-dark&area=true&hide_border=true&custom_title=FRAGMENTED_TIMELINE" width="100%" />
+  <i>"Don't look at the code, it's staring back at you."</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CONNECTION-LOST-white?style=for-the-badge&logo=ghostery&logoColor=black" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-ON-black?style=for-the-badge&logo=codetunnel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MEMORY-CORRUPTED-white?style=for-the-badge&logo=intel&logoColor=black" />
+  <img src="https://img.shields.io/badge/HARDWARE-GORE-black?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Znd4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
 </p>
 
 <p align="center">
-  <code>EOF: END_OF_FILE_000000</code>
+  <code>CONNECTION_TERMINATED_#0000</code>
 </p>
