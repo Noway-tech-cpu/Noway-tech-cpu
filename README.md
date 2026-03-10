@@ -2,12 +2,9 @@
 
 <h1 align="center">👋 Hey, I'm Noway-tech-cpu</h1>
 
-<!-- START OF README -->
-
-<h1 align="center">👋 Hey, I'm Noway-tech-cpu</h1>
 
 <p align="center">
-  <img src="[https://eskipaper.com/images/harry-potter-12.jpg](https://coloring-free.com/uploads/photos/2024/01/coloring_7e7f78f003ab4e56a6245db679d12c61.jpg)" alt="Harry Potter" width="300"/>
+  <img src="https://coloring-free.com/uploads/photos/2024/01/coloring_7e7f78f003ab4e56a6245db679d12c61.jpg" alt="Harry Potter" width="300"/>
 </p>
 
 <p align="center">
