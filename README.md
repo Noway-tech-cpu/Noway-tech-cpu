@@ -3,20 +3,21 @@
 <p align="center">
   <svg width="800" height="100" viewBox="0 0 800 100">
     <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
         <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
     </defs>
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
-          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
-          fill="#00ff41" style="filter: url(#glow);">
+          font-family="'Courier New', monospace" font-size="28" font-weight="bold" 
+          fill="#00ff41" style="filter: url(#neonGlow);">
       🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
-      <animate attributeName="x" values="49.5%;50.5%;49.8%;50.2%;50%" dur="0.15s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="0.3s" repeatCount="indefinite" />
+      <animate attributeName="x" values="49.8%;50.2%;49.9%;50.1%;50%" dur="0.1s" repeatCount="indefinite" />
+      <animate attributeName="y" values="49.8%;50.2%;50%" dur="0.15s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.8;1;0.4;1" dur="2s" repeatCount="indefinite" />
     </text>
   </svg>
 </p>
