@@ -1,82 +1,71 @@
-# 👋 Hey, I'm Noway-tech-cpu
-![Header](https://raw.githubusercontent.com/Noway-tech-cpu/Noway-tech-cpu/main/assets/header.png)
-💻 Systems-minded developer exploring **AI, low-level systems, and experimental engineering**.
+<!-- START OF README -->
 
-I like building things that combine **logic, performance, and creativity**.
+<h1 align="center">👋 Hey, I'm Noway-tech-cpu</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Boy GIF" width="250"/>
+</p>
+
+<p align="center">
+💻 Systems-minded developer exploring <strong>AI, low-level systems, and experimental engineering</strong>.<br>
+I like building things that combine <strong>logic, performance, and creativity</strong>.
+</p>
 
 ---
 
 ## 🧠 About Me
+- 🔧 Interested in Systems Programming  
+- 🤖 Exploring Artificial Intelligence  
+- 🐍 Working with Python and C++  
+- ⚙️ Curious about how software interacts with hardware  
 
-* 🔧 Interested in **Systems Programming**
-* 🤖 Exploring **Artificial Intelligence**
-* 🐍 Working with **Python and C++**
-* ⚙️ Curious about **how software interacts with hardware**
-
-My approach:
-
-```
+**My approach:**  
+<pre>
 Build → Break → Learn → Improve → Repeat
-```
+</pre>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/> 
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> 
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
 
-* Python
-* C++
-* C
-* Bash
-
-**Areas I'm exploring**
-
-* Systems Programming
-* AI / Machine Learning
-* Automation
-* Experimental projects
+**Areas I'm exploring:**  
+• Systems Programming  
+• AI / Machine Learning  
+• Automation  
+• Experimental projects  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-Some repositories I’m working on:
-
-* **ailab1** – AI lab experiments in Python
-* **todo** – Task automation scripts
-* **dreamday** – Experimental ideas and simulations
-* **demo / demo1** – Early development tests
-
-More projects coming as I keep learning.
+| Project | Description | Language | Stars |
+|---------|-------------|----------|-------|
+| [ailab1](https://github.com/Noway-tech-cpu/ailab1) | AI lab experiments in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐ |
+| [dreamday](https://github.com/Noway-tech-cpu/dreamday) | Experimental ideas and simulations | - | ⭐ |
+| [todo](https://github.com/Noway-tech-cpu/todo) | Task automation scripts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐ |
+| [demo](https://github.com/Noway-tech-cpu/demo) | Early development tests | - | ⭐ |
+| [demo1](https://github.com/Noway-tech-cpu/demo1) | First repository experiments | - | ⭐ |
 
 ---
 
 ## 📈 Current Goals
-
-* Improve Python and AI programming
-* Build more real-world projects
-* Learn deeper **system-level programming**
-* Contribute to open-source projects
+- Improve Python and AI programming  
+- Build more real-world projects  
+- Learn deeper system-level programming  
+- Contribute to open-source projects  
 
 ---
 
 ## 🚀 Development Philosophy
-
-```
+```c
 while(alive) {
     learn();
     build();
     improve();
 }
-```
-
----
-
-## 🌐 Connect
-
-If you're interested in **AI, systems, or building cool projects**, feel free to explore my repositories.
-
----
-
-⭐ *Always learning. Always building.*
