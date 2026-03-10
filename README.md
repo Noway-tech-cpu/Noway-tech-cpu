@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Noway-tech-cpu
-
+![Header](https://raw.githubusercontent.com/Noway-tech-cpu/Noway-tech-cpu/main/assets/header.png)
 💻 Systems-minded developer exploring **AI, low-level systems, and experimental engineering**.
 
 I like building things that combine **logic, performance, and creativity**.
