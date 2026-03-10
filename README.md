@@ -1,6 +1,23 @@
 <!-- START OF README -->
 
-<h1 align="center">👋 Hey, I'm Noway-tech-cpu</h1>
+<h1 align="center" style="color: #00ff41; text-shadow: 0 0 10px #00ff41, 0 0 30px #00cc33, 4px 6px 2px #001a00; font-family: 'Courier New', monospace; letter-spacing: 0.1em; animation: glitch 3s infinite;">
+  🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
+</h1>
+<p align="center" style="color: #00cc33; font-size: 1.3em; text-shadow: 2px 2px 4px #003300;">
+  Undead systems dev • rotting in low-level code • rising again with AI experiments
+</p>
+
+<!-- Optional glitch animation (works in most browsers) -->
+<style>
+  @keyframes glitch {
+    0% { transform: translate(0); }
+    20% { transform: translate(-3px, 2px) skew(5deg); }
+    40% { transform: translate(4px, -3px) skew(-8deg); }
+    60% { transform: translate(-2px, 1px); }
+    80% { transform: translate(3px, -2px); }
+    100% { transform: translate(0); }
+  }
+</style>
 
 
 <p align="center">
