@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey, I'm Noway-tech-cpu</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Harry Potter GIF" width="250"/>
+  <img src="https://eskipaper.com/images/harry-potter-12.jpg" alt="Harry Potter" width="300"/>
 </p>
 
 <p align="center">
