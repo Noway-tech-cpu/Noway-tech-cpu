@@ -1,7 +1,13 @@
 <h1 align="center">
   <font color="#00ff41" face="Courier New">
-    <marquee behavior="alternate" scrollamount="3" width="80%">
-      🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
+    <marquee behavior="alternate" scrollamount="1" direction="left" width="90%">
+      <kbd>
+        <font size="6">🧟‍♂️ B</font><font size="4">R</font><font size="6">A</font><font size="5">I</font><font size="4">N</font><font size="6">S...</font> 
+        <font size="3"><i>i mean...</i></font> 
+        <strike><font color="#ff0044">SYSTEM_ERROR</font></strike> 
+        <font size="6">HEY, I'M</font> 
+        <font color="#9900ff"><b>NOWAY-TECH-CPU</b></font> 🧟
+      </kbd>
     </marquee>
   </font>
 </h1>
