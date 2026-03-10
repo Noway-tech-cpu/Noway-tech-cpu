@@ -1,26 +1,10 @@
-<!-- START OF README -->
-
-<p align="center">
-  <svg width="800" height="100" viewBox="0 0 800 100">
-    <defs>
-      <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="3" result="blur" />
-        <feMerge>
-          <feMergeNode in="blur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
-          font-family="'Courier New', monospace" font-size="28" font-weight="bold" 
-          fill="#00ff41" style="filter: url(#neonGlow);">
+<h1 align="center">
+  <font color="#00ff41" face="Courier New">
+    <marquee behavior="alternate" scrollamount="3" width="80%">
       🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
-      <animate attributeName="x" values="49.8%;50.2%;49.9%;50.1%;50%" dur="0.1s" repeatCount="indefinite" />
-      <animate attributeName="y" values="49.8%;50.2%;50%" dur="0.15s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0.8;1;0.4;1" dur="2s" repeatCount="indefinite" />
-    </text>
-  </svg>
-</p>
+    </marquee>
+  </font>
+</h1>
 
 <p align="center">
   <img src="https://github.com/Noway-tech-cpu/Noway-tech-cpu/raw/main/zombie-name.gif" 
@@ -50,8 +34,7 @@ I like building things that combine <strong>logic, performance, and creativity</
 - 🐍 Working with Python and C++  
 - ⚙️ Curious about how software interacts with hardware  
 
-**My approach:**  
-<pre>
+**My approach:** <pre>
 Build → Break → Learn → Improve → Repeat
 </pre>
 
@@ -59,14 +42,12 @@ Build → Break → Learn → Improve → Repeat
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
+**Languages:** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/> 
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
 
-**Areas I'm exploring:**  
-• Systems Programming  
+**Areas I'm exploring:** • Systems Programming  
 • AI / Machine Learning  
 • Automation  
 • Experimental projects  
