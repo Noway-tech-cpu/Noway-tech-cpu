@@ -1,16 +1,25 @@
 <!-- START OF README -->
 
-<h1 align="center" style="color: #00ff41; text-shadow: 
-  0 0 10px #00ff41,
-  0 0 30px #00cc33,
-  2px 2px 0 #ff0044,
-  -2px -2px 0 #001a00,
-  4px 0 0 #9900ff; 
-  font-family: 'Courier New', monospace; 
-  letter-spacing: 0.15em; 
-  font-weight: bold;">
-  🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
-</h1>
+<p align="center">
+  <svg width="800" height="100" viewBox="0 0 800 100">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#00ff41" style="filter: url(#glow);">
+      🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
+      <animate attributeName="x" values="49.5%;50.5%;49.8%;50.2%;50%" dur="0.15s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.7;1;0.9;1" dur="0.3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <img src="https://github.com/Noway-tech-cpu/Noway-tech-cpu/raw/main/zombie-name.gif" 
