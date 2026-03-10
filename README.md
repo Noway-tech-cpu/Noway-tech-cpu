@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey, I'm Noway-tech-cpu</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg" alt="Harry Potter" width="250"/>
+  <img src="https://raw.githubusercontent.com/Noway-tech-cpu/Noway-tech-cpu/main/assets/harry_potter.png" alt="Harry Potter" width="250"/>
 </p>
 
 <p align="center">
