@@ -12,10 +12,16 @@
   🧟‍♂️ BRAINS... I MEAN... HEY, I'M NOWAY-TECH-CPU 🧟
 </h1>
 
-<p align="center" style="color: #00cc33; font-size: 1.3em; text-shadow: 2px 2px 4px #003300;">
-  Undead systems dev • rotting in low-level code • rising again with AI experiments
+<p align="center">
+  <img src="https://github.com/Noway-tech-cpu/Noway-tech-cpu/raw/main/zombie-name.gif" 
+       alt="Noway-tech-cpu zombie moving brains" 
+       width="700" 
+       style="filter: drop-shadow(0 0 20px #00ff41) brightness(1.1);"/>
 </p>
 
+<p align="center" style="color: #00cc33; font-size: 1.4em; text-shadow: 2px 2px 6px #001100;">
+  Undead systems dev • shambling through low-level rot • craving AI brains
+</p>
 
 <p align="center">
   <img src="https://coloring-free.com/uploads/photos/2024/01/coloring_7e7f78f003ab4e56a6245db679d12c61.jpg" alt="Harry Potter" width="300"/>
