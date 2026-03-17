@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://coloring-free.com/uploads/photos/2024/01/coloring_7e7f78f003ab4e56a6245db679d12c61.jpg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNwYmxua2VxMjM2dTFwdzFjcDVqZWtnMGZwdHgyYnFyNXpjNzZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJO5x5QQM72Q0weWXN/giphy.gif)" alt="Harry Potter" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNwYmxua2VxMjM2dTFwdzFjcDVqZWtnMGZwdHgyYnFyNXpjNzZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJO5x5QQM72Q0weWXN/giphy.gif" alt="Harry Potter" width="300"/>
 </p>
 
 <p align="center">
